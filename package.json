@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "apollo-server-express": "^2.25.3",
+    "express": "^4.17.3",
+    "graphql": "^15.8.0",
+    "pg": "^8.7.3"
+  },
+  "name": "lesson6(server-with_apollo)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/server",
+    "dev": "nodemon ./src/server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
